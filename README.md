@@ -8,3 +8,4 @@ This plugin requires EconomyAPI & FormsAPI.
 
 ### Credits
 Special thanks to ArmTheDev for making a tutorial on this!
+test xD
